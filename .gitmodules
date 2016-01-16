@@ -1,3 +1,4 @@
-﻿[submodule "Support Code/Team900-VIs"]
+[submodule "Support Code/Team900-VIs"]
 	path = Support Code/Team900-VIs
-	url = https://github.com/FRC900/Team900-VIs.git branch = master
+	url = https://github.com/FRC900/navX-MXP-LabVIEW.git
+	branch = master

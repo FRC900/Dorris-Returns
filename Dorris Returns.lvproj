@@ -671,6 +671,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_SerialPortGetBytesReceived.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/SerialPort/WPI_SerialPortGetBytesReceived.vi"/>
 				<Item Name="WPI_SerialPortWrite.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/SerialPort/WPI_SerialPortWrite.vi"/>
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -702,7 +703,6 @@ AddOutputFilter chunkFilter
 			<Item Name="navX Offsets Data.ctl" Type="VI" URL="../Support Code/Team900-VIs/navX/navX-MXP Library/COMMON/TypeDefs/Data TypeDefs/navX Offsets Data.ctl"/>
 			<Item Name="WPI_SerialPort_USB.ctl" Type="VI" URL="../Support Code/Team900-VIs/navX/navX-MXP Library/NI WPI/WPI_SerialPort_USB.ctl"/>
 			<Item Name="WPI_SerialPortOpen_USB.vi" Type="VI" URL="../Support Code/Team900-VIs/navX/navX-MXP Library/NI WPI/WPI_SerialPortOpen_USB.vi"/>
-			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">

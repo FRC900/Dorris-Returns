@@ -672,6 +672,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_SerialPortWrite.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/SerialPort/WPI_SerialPortWrite.vi"/>
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="WPI_CANTalonSRX_SetVoltageRampRate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/TalonSRX/WPI_CANTalonSRX_SetVoltageRampRate.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
